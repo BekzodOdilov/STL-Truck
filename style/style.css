@@ -1,0 +1,481 @@
+.card-img {
+    margin-left: 150px;
+    margin-top: 35px;
+}
+
+.card {
+    margin-top: -40px;
+    margin-left: 50px;
+}
+
+.card-0 {
+    margin-top: -20px;
+    margin-left: 50px;
+}
+
+
+.card-1 {
+    margin-left: 470px;
+    margin-top: -50px;
+    display: flex;
+}
+
+.card-text {
+    margin-left: 530px;
+    margin-top: -37px;
+    display: flex;
+}
+
+.card-text-1 {
+    margin-left: 530px;
+    margin-top: -17px;
+    display: flex;
+}
+
+.card-2 {
+    margin-left: 790px;
+    margin-top: -50px;
+    display: flex;
+}
+
+.card-text-2 {
+    margin-left: 849px;
+    display: flex;
+    margin-top: -37px;
+}
+
+.card-text-3 {
+    margin-left: 849px;
+    display: flex;
+    margin-top: -16px;
+}
+
+.card-3 {
+    margin-left: 1120px;
+    display: flex;
+    margin-top: -49px;
+}
+
+.card-text-4 {
+    margin-left: 1178px;
+    display: flex;
+    margin-top: -37px;
+}
+
+.card-text-5 {
+    margin-left: 1178px;
+    display: flex;
+    margin-top: -17px;
+}
+
+.card-text-txt {
+    margin-left: 150px;
+    margin-top: 160px;
+    display: flex;
+}
+
+.card-text-txt-2 {
+    margin-left: 520px;
+    margin-top: -280px;
+
+}
+
+.card-img-n1 {
+    margin-left: 900px;
+    margin-top: -290px;
+}
+
+.card-button-video {
+    margin-top: -280px;
+    display: flex;
+    margin-left: 220px;
+
+}
+
+.card-img-n2 {
+    margin-left: 70px;
+    margin-top: 200px;
+    display: flex;
+}
+
+.card-202 {
+    margin-left: 750px;
+    margin-top: -400px;
+
+
+}
+
+.card-202-203 {
+    margin-left: 1180px;
+    margin-top: -240px;
+}
+
+.card-img-ctrl {
+    margin-left: 130px;
+    margin-top: 330px;
+}
+
+/* .crad-img-text-n1{
+
+} */
+.card-text-nikil {
+    margin-left: 450px;
+    display: flex;
+    margin-top: -240px;
+}
+
+.card-text-img-kal {
+    margin-left: 490px;
+    display: flex;
+    margin-top: -10px;
+}
+
+.card-p {
+    margin-left: 420px;
+    display: flex;
+    margin-top: 50px;
+}
+
+.button {
+    margin-left: 485px;
+    margin-top: 50px;
+    display: flex;
+    background-color: darkslateblue;
+    color: aliceblue;
+    text-align: center;
+
+
+}
+
+.card-img-px {
+    margin-left: 700px;
+    margin-top: -243px;
+    display: flex;
+}
+
+.card-n909 {
+    margin-left: 949px;
+    display: flex;
+    margin-top: -243px;
+}
+
+.card-kotta {
+    margin-left: 80px;
+}
+
+.card-text-play {
+    margin-left: 150px;
+    display: flex;
+    margin-top: 100px;
+}
+
+.card-505 {
+    margin-left: -275px;
+    display: flex;
+    margin-top: 70px;
+}
+
+.card-vector-404 {
+    margin-top: 290px;
+    margin-left: -330px;
+}
+
+.card-raqam {
+    margin-top: 285px;
+    margin-left: 8px;
+}
+
+.card-bek {
+    margin-top: 310px;
+    margin-left: -65px;
+}
+
+.card-bekzod {
+    margin-top: -4px;
+    margin-left: -329px;
+}
+
+.card-surish {
+    margin-left: 400px;
+    margin-top: -3px;
+}
+
+.card-789 {
+    margin-left: 700px;
+    margin-top: -330px;
+}
+
+.card-987 {
+    margin-left: 700px;
+}
+
+.card-567 {
+    margin-left: 705px;
+}
+
+.card-765 {
+    margin-left: 700px;
+}
+
+.card-989 {
+    margin-left: 1100px;
+    margin-top: -250px;
+}
+
+.card-564 {
+    margin-left: 1100px;
+}
+
+.card-7 {
+    margin-left: 1100px;
+
+}
+
+.card-111 {
+    margin-left: 1100px;
+}
+
+.card-list-1 {
+    margin-left: 300px;
+    margin-top: 280px;
+    font-size: 30px;
+    color: #19416C;
+}
+
+.img {
+    margin-left: 650px;
+    margin-top: -160px;
+}
+
+.card-10 {
+    margin-left: -330px;
+    width: auto;
+}
+
+.card-21 {
+    margin-top: -600px;
+    margin-left: 100px;
+    display: flex;
+}
+
+.card-1001 {
+    margin-top: -430px;
+    margin-left: 70px;
+}
+
+.card-1002 {
+    margin-top: 00px;
+    margin-left: 60px;
+    font-size: 15px;
+}
+
+.input {
+    width: 250px;
+    height: 25px;
+    margin-left: 60px;
+}
+
+.borde {
+    margin-top: -100px;
+
+}
+
+.card-lla:hover {
+    border: 1px solid white;
+    margin-left: 150px;
+    width: 310px;
+    background-color: ghostwhite;
+    margin-top: 100px;
+    height: 260px;
+    box-shadow: 10px 5px 5px gray;
+}
+
+.card-lla {
+    cursor: pointer;
+}
+
+.card-lla {
+    border: 1px solid white;
+    margin-left: 150px;
+    width: 310px;
+    background-color: ghostwhite;
+    margin-top: 100px;
+    height: 260px;
+}
+
+.card-llal {
+    border: 1px solid white;
+    margin-left: 100px;
+    width: 310px;
+    background-color: ghostwhite;
+    height: 260px;
+    margin-top: 100px;
+}
+
+.card-llal {
+    cursor: pointer;
+}
+
+.card-llal:hover {
+    border: 1px solid white;
+    margin-left: 100px;
+    width: 310px;
+    background-color: ghostwhite;
+    margin-top: 100px;
+    height: 260px;
+    box-shadow: 10px 5px 5px gray;
+}
+
+.card-llall {
+    border: 1px solid white;
+    margin-left: 100px;
+    width: 310px;
+    background-color: ghostwhite;
+    height: 260px;
+    margin-top: 100px;
+}
+
+.card-llall {
+    cursor: pointer;
+}
+
+.card-llall:hover {
+    border: 1px solid white;
+    margin-left: 100px;
+    width: 310px;
+    background-color: ghostwhite;
+    margin-top: 100px;
+    height: 260px;
+    box-shadow: 10px 5px 5px gray;
+}
+
+.mapouter {
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 100px;
+
+}
+
+.card-with-height {
+    width: 150px;
+    height: 50px;
+    margin-left: 750px;
+    margin-top: 40px;
+    background-color: #19416C;
+    color: aliceblue;
+}
+
+.facebook {
+    width: 150px;
+    height: 50px;
+    background-color: #19416C;
+    color: aliceblue;
+    margin-top: 100px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+
+.facebook {
+    cursor: pointer;
+}
+
+.facebook:hover {
+    width: 150px;
+    height: 50px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    border-radius: 25px;
+}
+
+.twitter {
+    width: 150px;
+    height: 50px;
+    background-color: #19416C;
+    color: aliceblue;
+    margin-top: -40px;
+    margin-left: 100px;
+
+    border-radius: 10px;
+}
+
+.twitter {
+    cursor: pointer;
+}
+
+.twitter:hover {
+    width: 150px;
+    height: 50px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    border-radius: 25px;
+}
+
+.bil {
+    width: 150px;
+    height: 50px;
+    background-color: #19416C;
+    color: aliceblue;
+    margin-top: -40px;
+    margin-left: 100px;
+
+    border-radius: 10px;
+}
+
+.bil {
+    cursor: pointer;
+}
+
+.bil:hover {
+    width: 150px;
+    height: 50px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    border-radius: 25px;
+}
+
+.bilq {
+    width: 150px;
+    height: 50px;
+    background-color: #19416C;
+    color: aliceblue;
+    margin-top: -40px;
+    margin-left: 100px;
+
+    border-radius: 10px;
+}
+
+.bilq {
+    cursor: pointer;
+}
+
+.bilq:hover {
+    width: 150px;
+    height: 50px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    border-radius: 25px;
+}
+
+.bilqq {
+    width: 150px;
+    height: 50px;
+    background-color: #19416C;
+    color: aliceblue;
+    margin-top: -40px;
+    margin-left: 100px;
+
+    border-radius: 10px;
+}
+
+.bilqq {
+    cursor: pointer;
+}
+
+.bilqq:hover {
+    width: 150px;
+    height: 50px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    border-radius: 25px;
+}
